@@ -1,0 +1,1 @@
+this is to deploy the insfraestruture of the project https://github.com/Andrey242-GH/EC2_Heartbeat_Python_Automation
